@@ -1,0 +1,41 @@
+.box_1 {
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+}
+
+.box_2 {
+    width: 100px;
+    height: 100px;
+    background: red;
+}
+
+.yellow {
+    width: 100px;
+    height: 100px;
+    background: yellow;
+}
+
+.yellow {
+    width: 100px;
+    height: 100px;
+    background: yellow;
+}
+
+.yellow {
+    width: 100px;
+    height: 100px;
+    background: yellow;
+}
+
+.flex{
+    display: flex;
+    height: 600px;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+
+.yellow {
+    align-self: center;
+}
